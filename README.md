@@ -1,6 +1,6 @@
 # Cable-Chaos
 ## Introduction
-Inspired by the 'flow free' series of games for android and the 'three utilities problem' in mathematical topology, I wanted to make a version that worked in 3D! You are given a 3D shape with coloured circles on its surface and the object of the game is to connect the matching pairs of colours by adding cables across the surface of the shape without any cables crossing paths. This game dynamically creates its own levels, has a leaderboard and user profiles. I used Unity to create it. See the completed game here: https://play.google.com/store/apps/details?id=com.PhilAldridge.CableChaos
+Inspired by the 'flow free' series of games for android and the 'three utilities problem' in mathematical topology, I wanted to make a version that worked in 3D! You are given a 3D shape with coloured circles on its surface and the object of the game is to connect the matching pairs of colours by adding cables across the surface of the shape without any cables crossing paths. This game dynamically creates its own levels, has a leaderboard and user profiles. I used Unity and C# to create it. See the completed game here: https://play.google.com/store/apps/details?id=com.PhilAldridge.CableChaos
 
 ## Further Information
 This project contained several significant difficulties that I needed to overcome:
