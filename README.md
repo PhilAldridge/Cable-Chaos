@@ -13,6 +13,7 @@ I knew that I wanted the game to create its own levels dynamically. In order for
 - Possible to connect all matching pairs without crossing cables
 - Paths are long and wind around each other
 - Random generation so that 1000s of different levels can be created
+
 Here is a rough outline of the algorithm I ended up settling on:
 1. Duplicate the relational list showing which sides are adjacent to one another.
 2. Pick two random sides of a random voxel.
